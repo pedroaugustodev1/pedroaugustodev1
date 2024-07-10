@@ -1,6 +1,6 @@
 <h1 align="center"> Pedro Augusto 💻 </h1>
 <br>
-<p align="center">Hello, my name is Pedro and I'm a computer 💻 enthusiast! </p>
+<p align="center">Hello, my name is Pedro and I'm a computer enthusiast! </p>
 <p align="center">I am currently pursuing a degree in <b>Information Systems</b> specializing in <b>software development</b>, with a strong interest in <b>full stack development.</b></p>
 <br>
 <br>
